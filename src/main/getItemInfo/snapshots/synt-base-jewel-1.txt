@@ -1,0 +1,16 @@
+Item Class: Jewels
+Rarity: Rare
+Foe Ornament
+Synthesised Viridian Jewel
+--------
+Item Level: 83
+--------
+-6 Physical Damage taken from Attack Hits (implicit)
+--------
++8 to Dexterity and Intelligence
++6% to Physical Damage over Time Multiplier
+14% increased Damage with One Handed Weapons
+--------
+Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+--------
+Synthesised Item

@@ -1,0 +1,26 @@
+Item Class: Maps
+Rarity: Rare
+Warped Morass
+Strand Map
+--------
+Map Tier: 16
+Item Quantity: +113% (augmented)
+Item Rarity: +66% (augmented)
+Monster Pack Size: +43% (augmented)
+--------
+Item Level: 86
+--------
+Monster Level: 83
+--------
+Area contains many Totems
+Players cannot inflict Exposure
+Monsters Poison on Hit
+Area contains two Unique Bosses
+Unique Bosses are Possessed
+Monsters gain 40% of Maximum Life as Extra Maximum Energy Shield
+Players gain 50% reduced Flask Charges
+Players have 60% less Recovery Rate of Life and Energy Shield
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.
+--------
+Corrupted

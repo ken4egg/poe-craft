@@ -1,0 +1,19 @@
+Item Class: Jewels
+Rarity: Rare
+Soul Hope
+Medium Cluster Jewel
+--------
+Requirements:
+Level: 40
+--------
+Item Level: 83
+--------
+Adds 4 Passive Skills (enchant)
+1 Added Passive Skill is a Jewel Socket (enchant)
+Added Small Passive Skills grant: Minions have 12% increased maximum Life (enchant)
+--------
+Added Small Passive Skills also grant: +3% to Chaos Resistance
+Added Small Passive Skills also grant: Minions Regenerate 0.1% of Life per Second
+1 Added Passive Skill is Life from Death
+--------
+Place into an allocated Medium or Large Jewel Socket on the Passive Skill Tree. Added passives do not interact with jewel radiuses. Right click to remove from the Socket.

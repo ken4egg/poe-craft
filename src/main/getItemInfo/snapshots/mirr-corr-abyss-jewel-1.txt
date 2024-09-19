@@ -1,0 +1,24 @@
+Item Class: Abyss Jewels
+Rarity: Rare
+Hollow Sight
+Searching Eye Jewel
+--------
+Abyss
+--------
+Requirements:
+Level: 62
+--------
+Item Level: 83
+--------
+22% chance to Avoid being Poisoned (implicit)
+5% increased Effect of Non-Damaging Ailments (implicit)
+--------
+Adds 1 to 3 Physical Damage to Attacks
++185 to Accuracy Rating
+2% increased Cooldown Recovery Rate
+--------
+Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+--------
+Mirrored
+--------
+Corrupted

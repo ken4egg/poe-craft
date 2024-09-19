@@ -1,0 +1,9 @@
+Item Class: Abyss Jewels
+Rarity: Normal
+Ghastly Eye Jewel
+--------
+Abyss
+--------
+Item Level: 76
+--------
+Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.

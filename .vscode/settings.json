@@ -1,0 +1,18 @@
+{
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.module.css": "scss"
+  },
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

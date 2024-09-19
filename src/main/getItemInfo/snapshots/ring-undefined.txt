@@ -1,0 +1,9 @@
+Item Class: Rings
+Rarity: Rare
+Amethyst Ring
+--------
+Item Level: 85
+--------
++21% to Chaos Resistance (implicit)
+--------
+Unidentified

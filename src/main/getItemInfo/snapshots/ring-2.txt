@@ -1,0 +1,13 @@
+Item Class: Rings
+Rarity: Magic
+Amethyst Ring of Shining
+--------
+Requirements:
+Level: 30
+--------
+Item Level: 85
+--------
++17% to Chaos Resistance (implicit)
+--------
+11% increased Global Accuracy Rating
+5% increased Light Radius

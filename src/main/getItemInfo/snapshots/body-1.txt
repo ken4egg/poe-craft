@@ -1,0 +1,31 @@
+Item Class: Body Armours
+Rarity: Unique
+Hyrri's Ire
+Zodiac Leather
+--------
+Quality: +19% (augmented)
+Evasion Rating: 2588 (augmented)
+--------
+Requirements:
+Level: 82
+Str: 114
+Dex: 197
+Int: 129
+--------
+Sockets: G-G-R-B-R-B 
+--------
+Item Level: 86
+--------
++2 to Level of Socketed Projectile Gems (implicit)
+--------
++30% chance to Suppress Spell Damage
++41 to Dexterity
+143% increased Evasion Rating
+25% increased Chill Duration on Enemies
+115 to 196 Added Cold Damage with Bow Attacks
+--------
+Hyrri loosed a barrage of arrows,
+tipped with a poisoned hatred
+only oppression can ferment.
+--------
+Corrupted

@@ -1,0 +1,31 @@
+Item Class: Maps
+Rarity: Rare
+Cabal Hollow
+Fortress Map
+--------
+Map Tier: 17
+Item Quantity: +123% (augmented)
+Item Rarity: +103% (augmented)
+Monster Pack Size: +35% (augmented)
+More Maps: +50% (augmented)
+More Scarabs: +90% (augmented)
+More Currency: +70% (augmented)
+--------
+Item Level: 83
+--------
+Monster Level: 84
+--------
+Players are Cursed with Enfeeble
+Monsters have 660% increased Critical Strike Chance
++73% to Monster Critical Strike Multiplier
++50% Monster Physical Damage Reduction
+All Monster Damage can Ignite, Freeze and Shock
++35% Monster Chaos Resistance
++55% Monster Elemental Resistances
+Monsters have +50% Chance to Block Attack Damage
+Monsters Maim on Hit with Attacks
+Monsters Ignite, Freeze and Shock on Hit
+--------
+Travel to this Map by using it in a personal Map Device. Maps can only be used once.
+--------
+Modifiable only with Chaos Orbs, Vaal Orbs, Delirium Orbs and Chisels

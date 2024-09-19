@@ -1,0 +1,30 @@
+Item Class: Gloves
+Rarity: Rare
+Torment Paw
+Slink Gloves
+--------
+Quality: +20% (augmented)
+Evasion Rating: 335 (augmented)
+--------
+Requirements:
+Level: 70
+Dex: 155
+Int: 155
+--------
+Sockets: B-B-G-G 
+--------
+Item Level: 85
+--------
+Projectiles Pierce an additional Target (implicit)
+10% increased Attack Speed (implicit)
+--------
++32% to Chaos Resistance (fractured)
++13% chance to Suppress Spell Damage
++59 to Dexterity
++27 to Evasion Rating
++105 to maximum Life
+43% increased Damage while Leeching (crafted)
+Searing Exarch Item
+Eater of Worlds Item
+--------
+Fractured Item

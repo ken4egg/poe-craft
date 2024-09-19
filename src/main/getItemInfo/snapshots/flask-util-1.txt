@@ -1,0 +1,22 @@
+Item Class: Utility Flasks
+Rarity: Magic
+Dabbler's Diamond Flask of the Impala
+--------
+Quality: +20% (augmented)
+Lasts 5,20 (augmented) Seconds
+Consumes 20 of 40 Charges on use
+Currently has 40 Charges
+100% increased Global Critical Strike Chance
+--------
+Requirements:
+Level: 67
+--------
+Item Level: 84
+--------
+Used when Charges reach full (enchant)
+--------
+28% reduced Duration
+25% increased effect
+59% increased Evasion Rating during Effect
+--------
+Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
